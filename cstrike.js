@@ -3,16 +3,16 @@
 const express = require('express')
 const dotenv = require('dotenv').config()
 const path = require('path')
-const fs = require('fs')
 
 app = express();
 
-app.use('/cstrike', express.static(path.resolve('.')))
+app.use('/cstrike', express.static(path.resolve('./cstrike/')))
 
 app.get('/', (req, res) => {
-    res.send("hello")
+    res.send("live")
 })
 
 app.listen(process.env.PORT, () =>{
     console.log("Alive!")
+    console.log(path.resolve('./cstrike/'))
 });
