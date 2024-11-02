@@ -7,7 +7,7 @@ const fs = require('fs')
 
 app = express();
 
-app.use('/', express.static(path.resolve('/')))
+app.use('/', express.static(path.resolve('.')))
 
 app.get('/', (req, res) => {
     res.send(fs.readdir())
