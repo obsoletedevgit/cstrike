@@ -9,7 +9,7 @@ app = express();
 app.use('/cstrike', express.static(path.resolve('./cstrike/')))
 
 app.get('/', (req, res) => {
-    res.send("live")
+    res.sendFile(path.resolve('.gitignore'))
 })
 
 app.listen(process.env.PORT, () =>{
