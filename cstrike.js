@@ -7,12 +7,11 @@ const fs = require('fs')
 
 app = express();
 
-app.use('/', express.static(path.resolve('.')))
+app.use('/cstrike', express.static(path.resolve('.')))
 
 app.get('/', (req, res) => {
     res.send("hello")
 })
-
 
 app.listen(process.env.PORT, () =>{
     console.log("Alive!")
