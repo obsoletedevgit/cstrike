@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	2.56
+	ORIGIN	496	-46	32
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/usp_ninjas.tga"
+	HEIGHT	-513
+}
+

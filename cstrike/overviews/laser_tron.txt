@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	2.62
+	ORIGIN	595	528	-342.67
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/laser_tron.tga"
+	HEIGHT	-451
+}
+

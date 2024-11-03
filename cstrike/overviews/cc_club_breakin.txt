@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.04
+	ORIGIN	108	128	268
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cc_club_breakin.tga"
+	HEIGHT	-3321
+}
+

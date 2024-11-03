@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.54
+	ORIGIN	-264	-28 	-288
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/as_moria.tga"
+	HEIGHT	-1153
+}
+

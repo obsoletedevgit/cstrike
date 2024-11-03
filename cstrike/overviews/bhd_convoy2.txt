@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	0.99
+	ORIGIN	912	-96	134
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/bhd_convoy2.tga"
+	HEIGHT	-257
+}
+

@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	2.68
+	ORIGIN	246	304	96
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/panic_room.tga"
+	HEIGHT	-385
+}
+

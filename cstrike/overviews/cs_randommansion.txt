@@ -1,0 +1,14 @@
+
+global
+{
+	ZOOM	1.38
+	ORIGIN	118	110	-132
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cs_randommansion.tga"
+	HEIGHT	-553
+}
+

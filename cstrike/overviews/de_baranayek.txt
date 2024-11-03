@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.39
+	ORIGIN	-168	-592	260
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/de_baranayek.tga"
+	HEIGHT	-257
+}
+

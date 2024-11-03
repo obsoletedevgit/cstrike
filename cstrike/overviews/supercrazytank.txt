@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.23
+	ORIGIN	1508	388	-124
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/supercrazytank.tga"
+	HEIGHT	-641
+}
+

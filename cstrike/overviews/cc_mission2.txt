@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.62
+	ORIGIN	-416	544	-65
+	ROTATED	1
+}
+
+layer
+{
+	IMAGE "overviews/cc_mission2.tga"
+	HEIGHT	-257
+}
+

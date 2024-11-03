@@ -1,0 +1,15 @@
+
+
+global
+{
+	ZOOM	1.27
+	ORIGIN	116	-678	-64
+	ROTATED	0
+}
+
+layer
+{
+	IMAGE "overviews/de_nmjungle1.tga"
+	HEIGHT	-449
+}
+
